@@ -30,6 +30,8 @@ print(f'Три песни звучат {sum(time_n[0:3])}')
 
 # print("Три песни звучат ","минут", random.choices(my_favorite_songs, k=3))
 
+# Отлично
+
 
 
 

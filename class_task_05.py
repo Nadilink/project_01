@@ -19,6 +19,7 @@ for i in month:
 live = abs(all_salary - total_expenses)
 print('Необходимо взять в долг ', round(live, 2), 'рублей')
 
+# Отлично
 
 
 

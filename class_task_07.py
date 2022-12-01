@@ -69,9 +69,4 @@ for n_titles in titles:
         total_quantity += quantity_price["quantity"]
     print(n_titles, "-", total_quantity, "шт, стоимостью", total_price, "рублей")
 
-
-
-
-
-
-
+# Отлично
